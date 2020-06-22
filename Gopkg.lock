@@ -310,7 +310,7 @@
     "github.com/hashicorp/go-cleanhttp",
     "github.com/samuel/go-zookeeper/zk",
     "github.com/stretchr/testify/assert",
-    "gopkg.in/coreos/go-etcd.v0/etcd",
+    "https://github.com/coreos/go-etcd",
   ]
   solver-name = "gps-cdcl"
   solver-version = 1
