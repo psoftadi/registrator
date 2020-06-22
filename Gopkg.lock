@@ -292,7 +292,7 @@
 
 [[projects]]
   digest = "1:77b931135abb2ac4c127e7843d1231af0977227aafa21d9bb8c79b74644dcc39"
-  name = "gopkg.in/coreos/go-etcd.v0"
+  name = "github.com/coreos/go-etcd"
   packages = ["etcd"]
   pruneopts = "UT"
   revision = "6aa2da5a7a905609c93036b9307185a04a5a84a5"
